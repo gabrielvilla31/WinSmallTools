@@ -68,3 +68,8 @@ vcpkg_installed/
 Testing/
 .cache/
 .vs/
+/Debug
+/Releasetinyxml
+/WinSmallTools
+/Release
+/Debugtinyxml
