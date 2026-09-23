@@ -151,7 +151,13 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ChromeDeamon.cpp" />
+    <ClCompile Include="WallPaperSetter.cpp" />
     <ClCompile Include="WinSmallTools.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ChromeDeamon.h" />
+    <ClInclude Include="WallPaperSetter.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
