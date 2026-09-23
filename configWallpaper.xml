@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+	<defaultWallpaperPath path="C:\Users\villa\OneDrive - GROUPE SOGECLAIR\Images\Windows Background\z.jpg" />
+	<monitorDisplay display1="0" display2="2" display3="1" />
+	<backgroungTriplets folderPath="C:\Users\villa\OneDrive - GROUPE SOGECLAIR\Images\Windows Background\">
+		<backgroungTriplet id="1" wallpaper1="z.jpg" wallpaper2="camping1.jpg" wallpaper3="lac1.jpg" />
+		<backgroungTriplet id="2" wallpaper1="foret1.jpg" wallpaper2="lac1.jpg" wallpaper3="foret2.jpg" />
+		<backgroungTriplet id="3" wallpaper1="escalade1.jpg" wallpaper2="paysage1.jpg" wallpaper3="paysage2.jpg" />
+		<backgroungTriplet id="4" wallpaper1="z.jpg" wallpaper2="spirited1.png" wallpaper3="spirited2.png" />
+		<backgroungTriplet id="5" wallpaper1="z.jpg" wallpaper2="arrietty1.jpg" wallpaper3="arrietty2.jpg" />
+		<backgroungTriplet id="6" wallpaper1="z.jpg" wallpaper2="whisper1.jpg" wallpaper3="whisper2.jpg" />
+		<backgroungTriplet id="7" wallpaper1="n64W.jpg" wallpaper2="nesW.png" wallpaper3="gamecubeW.jpg" />
+	</backgroungTriplets>
+</config>

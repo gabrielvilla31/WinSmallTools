@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="tinyxml/tinyxml_lib.vcxproj" Id="c406daec-0886-4771-8dea-9d7329b46cc1" />
+  <Project Path="WinSmallTools.vcxproj" Id="deec0141-152d-48a8-a0c5-639bf2ce0f16" />
+</Solution>
